@@ -1,20 +1,31 @@
-<h1 align="center">Hi 👋, I'm Rajadurai R</h1>
-<h3 align="center">A passionate frontend developer from</h3>
+# 💫 About Me:
+👋 Hi there, I'm Rajadurai R  
+🎓 I'm a 3rd-year B.Tech Computer Science and Business Systems student at KIT - Kalaignar Karunanidhi Institute of Technology  
+💻 Passionate about Web Development, Data Structures & Algorithms, and Competitive Programming  
+🚀 Currently building projects with HTML, CSS, JavaScript, Python, and exploring Flask for backend development  
+🛠️ Tech I enjoy working with:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajadurai31&label=Profile%20views&color=0e75b6&style=flat" alt="rajadurai31" /> </p>
+Languages: Python, Java, C, SQL, JavaScript  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rajadurai-r-56b762292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajadurai-r-56b762292" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rajadurai_31" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rajadurai_31" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kit27_csbs45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kit27_csbs45" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/kit27.csbs45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kit27.csbs45" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rajadurai31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajadurai31" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kit27ceg1k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kit27ceg1k" height="30" width="40" /></a>
-</p>
+Tools & Frameworks: VS Code, Intellij Idea Ultimate, Eclipse, React.js  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+📈 900+ problems solved | 100+ contests | 240+ LeetCode problems solved with a rating of 1500+  
+🌱 Currently learning Full-Stack Development and improving communication skills  
+📬 Let's connect! Reach me on LinkedIn or check out my GitHub
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajadurai31&show_icons=true&locale=en&layout=compact" alt="rajadurai31" /></p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajadurai-ajay-56b762292) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajadurai31rk@gmail.com)
 
+## 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%2300599C.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Rajadurai31&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Rajadurai31&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajadurai31&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### ✍️ Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Rajadurai31&icon=0&color=0)](https://visitcount.itsvg.in)
